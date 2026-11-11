@@ -1,0 +1,11 @@
+C:\Users\Damgo\Pictures\TRES\peta3\peta3\bin\Debug\peta3.exe.config
+C:\Users\Damgo\Pictures\TRES\peta3\peta3\bin\Debug\peta3.exe
+C:\Users\Damgo\Pictures\TRES\peta3\peta3\bin\Debug\peta3.pdb
+C:\Users\Damgo\Pictures\TRES\peta3\peta3\obj\Debug\peta3.csproj.AssemblyReference.cache
+C:\Users\Damgo\Pictures\TRES\peta3\peta3\obj\Debug\peta3.Form1.resources
+C:\Users\Damgo\Pictures\TRES\peta3\peta3\obj\Debug\peta3.Form2.resources
+C:\Users\Damgo\Pictures\TRES\peta3\peta3\obj\Debug\peta3.Properties.Resources.resources
+C:\Users\Damgo\Pictures\TRES\peta3\peta3\obj\Debug\peta3.csproj.GenerateResource.cache
+C:\Users\Damgo\Pictures\TRES\peta3\peta3\obj\Debug\peta3.csproj.CoreCompileInputs.cache
+C:\Users\Damgo\Pictures\TRES\peta3\peta3\obj\Debug\peta3.exe
+C:\Users\Damgo\Pictures\TRES\peta3\peta3\obj\Debug\peta3.pdb
